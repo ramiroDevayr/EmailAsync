@@ -1,0 +1,15 @@
+﻿<Properties RefactoringSettings.EnableRefactorings="True" StartupItem="PruebaAsync\PruebaAsync.Droid\PruebaAsync.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.0815f853227e3e05" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="PruebaAsync\PruebaAsync\MainPage.xaml.cs">
+    <Files>
+      <File FileName="PruebaAsync\PruebaAsync.Droid\EnviarMail.cs" Line="22" Column="15" />
+      <File FileName="PruebaAsync\PruebaAsync\MainPage.xaml" Line="1" Column="1" />
+      <File FileName="PruebaAsync\PruebaAsync\MainPage.xaml.cs" Line="31" Column="1" />
+      <File FileName="PruebaAsync\PruebaAsync\IEmail.cs" Line="11" Column="7" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
